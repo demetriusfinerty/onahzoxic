@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meetheeya.gamedevutils.com/sitemap.xml
